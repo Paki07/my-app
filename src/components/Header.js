@@ -5,7 +5,6 @@ const Header = () => {
     <div className='ui fixed menu'>
       <div className='ui container center'>
           <h2>Contact Manager</h2>
-          <p>Hello this is new changes in Contact branch</p>
       </div>
     </div>
   )
