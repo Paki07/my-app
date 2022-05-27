@@ -10,6 +10,7 @@ const ContactList = (props) => {
     })
   return <div className="ui celled list">
       {renderContactList}
+      <p>Hello this is new changes in Contact branch</p>
   </div>;
 };
 
