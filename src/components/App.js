@@ -37,6 +37,9 @@ const App = () => {
       <Header/>
       <AddContact addContactHandler={addContactHandler}/>
       <ContactList contacts={contacts} getContactId={removeContactHandler}/>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis rem sit 
+        debitis blanditiis perferendis impedit quia consequuntur sunt aut quisquam enim, minus iure accusantium aperiam,
+         iste, animi perspiciatis porro architecto.</p>
     </div>
   )
 };
